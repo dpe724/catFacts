@@ -1,0 +1,27 @@
+*{
+  font-family: 'Russo One', sans-serif;
+}
+
+.catFact{
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  color: black;
+  font-size: 20px;
+  background: rgba(255,0,132,1);
+}
+
+.container{
+  padding: 20px;
+  margin: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
